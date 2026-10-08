@@ -17,17 +17,17 @@ An end-to-end HR analytics project analyzing employee attrition, workforce diver
 ### Page 1 — HR Overview
 > KPI cards, attrition by department, headcount donut chart, monthly hiring trend, and interactive slicers
 
-![HR Overview](https://raw.githubusercontent.com/samruddhi-mahale/HR-Analytics-Dashboard/main/images/powerbi_dashboard_1.png)
+![HR Overview](images/powerbi_dashboard_1.png)
 
 ### Page 2 — Attrition Detail
 > Attrition by gender, education, age group, and employee detail table with drill-through from Page 1
 
-![Attrition Detail](https://raw.githubusercontent.com/samruddhi-mahale/HR-Analytics-Dashboard/main/images/powerbi_dashboard_2.png)
+![Attrition Detail](images/powerbi_dashboard_2.png)
 
 ### Page 3 — Salary Analysis
 > Average salary by department, performance, education, and salary vs age scatter plot
 
-![Salary Analysis](https://raw.githubusercontent.com/samruddhi-mahale/HR-Analytics-Dashboard/main/images/powerbi_dashboard_3.png)
+![Salary Analysis](images/powerbi_dashboard_3.png)
 
 ---
 
@@ -189,8 +189,8 @@ Generated using pandas, matplotlib, and seaborn:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/samruddhi-mahale/HR-Analytics-Dashboard.git
-cd HR-Analytics-Dashboard
+git clone https://github.com/Abhishek-21-kumar/HR_Analytics_Dashboard.git
+cd HR_Analytics_Dashboard
 ```
 
 2. Generate the dataset:
@@ -217,13 +217,3 @@ jupyter notebook 02_eda.ipynb
 
 This project demonstrates end-to-end data analytics using SQL, Python, Excel, and Power BI to generate meaningful HR insights. The dashboard enables HR teams to identify attrition risks, analyse salary equity, and track workforce trends — supporting faster, evidence-based people decisions.
 
----
-
-## Author
-
-**Samruddhi Mahale**  
-Data Analyst  
-[GitHub](https://github.com/samruddhi-mahale) | [LinkedIn](https://linkedin.com/in/samruddhi-mahale)
-
----
-*Project completed: July 2026*
